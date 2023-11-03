@@ -72,3 +72,9 @@ footer {
   text-align: center;
   font-style: italic;
 }
+header{
+  background-color: black;
+}
+#logo{
+  color: white;
+}
