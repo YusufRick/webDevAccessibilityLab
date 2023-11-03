@@ -78,3 +78,11 @@ tr:nth-child(odd) {
   background-color: #ccc;
 }
 /* Form Styling Needs Adding */
+
+
+header{
+  background-color: black;
+}
+.logo{
+  color: white;
+}
