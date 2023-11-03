@@ -76,6 +76,10 @@ footer {
 header{
   background-color: black;
 }
-div#logo{
+a{
+  color: white;
+}
+
+.container{
   color: white;
 }
