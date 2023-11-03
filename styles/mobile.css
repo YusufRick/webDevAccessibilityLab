@@ -16,6 +16,7 @@ footer {
 
 #logo {
   text-align: center;
+  color: white;
 }
 
 header {
@@ -74,7 +75,4 @@ footer {
 }
 header{
   background-color: black;
-}
-#logo{
-  color: white;
 }
