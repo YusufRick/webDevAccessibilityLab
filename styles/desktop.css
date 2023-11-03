@@ -84,6 +84,6 @@ tr:nth-child(odd) {
 header{
   background-color: black;
 }
-div#logo{
+a#logo{
   color: white;
 }
